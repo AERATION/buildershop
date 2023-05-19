@@ -6,8 +6,8 @@
           <div class="logo-home"></div>
           <div class="footer-text">
             <div class="social-links">
-              <span class="social twitter"><a href="https://twitter.com/pineviewlabs" target="_blank">Telegram</a></span>
-              <span class="social github"><a href="https://github.com/pineviewlabs" target="_blank">Github</a></span>
+              <span class="social twitter"><a href="https://telegram.org/" target="_blank">Telegram</a></span>
+              <span class="social github"><a href="https://github.com/AERATION/buildershop" target="_blank">Github</a></span>
             </div>
 
             <p>© 2023 ООО Землестрой. Все права защищены.</p>
