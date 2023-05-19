@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "title": "Добрыня",
+      "image": "/images-cloud/house1.jpg",
+      "price": 3117192,
+      "currency": "₽",
+      "category": "Двухэтажные дома",
+      "isbn13": 9781101911815,
+      "description": "Тёплый дом для круглогодичного использования. Бюджетный вариант."
+    },
+
+    {
+      "title": "Варяг",
+      "image": "/images-cloud/house2.jpg",
+      "price": 4719312,
+      "currency": "₽",
+      "category": "Двухэтажные дома",
+      "publisher": "Grove Press",
+      "isbn13": 9780802130983,
+      "description": "Тёплый, красивый и очень комфортный дом для постоянного проживания."
+    },
+
+    {
+      "title": "Норд",
+      "image": "/images-cloud/house3.jpg",
+      "price": 5904681,
+      "currency": "₽",
+      "category": "Двухэтажные дома",
+      "isbn13": 9780811223041,
+      "publisher": "New Directions Publishing Corporation",
+      "description": "Улучшенная комплектация 100% готовность всех внутренних и внешних инженерных систем. Свет горит, вода течет, в доме тепло и уютно.."
+    },
+
+    {
+      "title": "Бордо",
+      "image": "/images-cloud/house4.jpg",
+      "price": 1007490,
+      "currency": "₽",
+      "category": "Одноэтажные дома",
+      "publisher": "Yale University Press",
+      "isbn13": 9780300209570,
+      "description": "Комплексное предложение. В срок до 3-х месяцев (зависит от выбранного проекта) вы получаете полноценный загородный дом. "
+    }
+  ]
+}
